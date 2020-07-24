@@ -18,4 +18,4 @@ pip install opencv-python==3.4.4.19 **If any error occurs and not able to instal
 
 # To run output code use 
 
-  gui2.py 
+  ### gui2.py 
