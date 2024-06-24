@@ -15,3 +15,7 @@ pip install PILLOW
 pip install imutils
 
 pip install opencv-python==3.4.4.19 **If any error occurs and not able to install the package then run cmd as administrator and type ((pip install opencv-python & pip install opencv-contrib-python))**
+
+# To run output code use 
+
+  ### gui2.py 
